@@ -1,11 +1,17 @@
+div{
+margin-top: 10px;
+margin-left: 20px;
+}
 body{
   background-color: black
 }
 h1{
   color: white;
-  font-family: verdana;
+  font-family: arial;
 }
 p{
   color: white;
   font-family: verdana;
 }
+footer{color: white;}
+a{color: white;}
